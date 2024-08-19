@@ -268,3 +268,279 @@
     }
   ]
 }
+[11:40 pm, 19/8/2024] Mukeshkanna_VEC_CSE C: {
+    "items":{
+      
+        "Semester I": [
+          {
+            "Course Code": "23EN101T",
+            "Course Title": "Communicative English",
+            "Category": "HSMC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23CH101T",
+            "Course Title": "Engineering Chemistry",
+            "Category": "BSC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23MA101T",
+            "Course Title": "Matrices and Calculus",
+            "Category": "BSC",
+            "Credits": 4
+          },
+          {
+            "Course Code": "23PH101T",
+            "Course Title": "Engineering Physics",
+            "Category": "BSC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23CS101T",
+            "Course Title": "Problem Solving and Python Programming",
+            "Category": "ESC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23GE101T",
+            "Course Title": "த௘ழர்மர௖ / Heritage of Tamils",
+            "Category": "HSMC",
+            "Credits": 1
+          }
+        ],
+        "Semester II": [
+          {
+            "Course Code": "23EN103T",
+            "Course Title": "Technical English",
+            "Category": "HSMC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23MA102T",
+            "Course Title": "Statistics and Numerical Methods",
+            "Category": "BSC",
+            "Credits": 4
+          },
+          {
+            "Course Code": "23PH105T",
+            "Course Title": "Physics for Computer Science Engineers",
+            "Category": "BSC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23ME101T",
+            "Course Title": "Engineering Graphics",
+            "Category": "ESC",
+            "Credits": 4
+          },
+          {
+            "Course Code": "23CS103T",
+            "Course Title": "Programming in C",
+            "Category": "PCC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23GE102T",
+            "Course Title": "த௘ழ௠ம் ெதா௯ல்௎ட்ப௚ம் / Tamils and Technology",
+            "Category": "HSMC",
+            "Credits": 1
+          },
+          {
+            "Course Code": "23CH102T",
+            "Course Title": "Environmental Sciences and Sustainability",
+            "Category": "BSC",
+            "Credits": 2
+          }
+        ],
+        "Semester III": [
+          {
+            "Course Code": "23CS201T",
+            "Course Title": "Digital Principles and Computer Organization",
+            "Category": "ESC",
+            "Credits": 4
+          },
+          {
+            "Course Code": "23AD208T",
+            "Course Title": "Foundations of Data Science",
+            "Category": "PCC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23CS202T",
+            "Course Title": "Data Structures",
+            "Category": "PCC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23IT201T",
+            "Course Title": "Object Oriented Programming",
+            "Category": "PCC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23CS203I",
+            "Course Title": "Operating Systems",
+            "Category": "PCC",
+            "Credits": 4
+          }
+        ],
+        "Semester IV": [
+          {
+            "Course Code": "23IT203T",
+            "Course Title": "Software Engineering",
+            "Category": "PCC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23CS205T",
+            "Course Title": "Design and Analysis of Algorithms",
+            "Category": "PCC",
+            "Credits": 4
+          },
+          {
+            "Course Code": "23MA201T",
+            "Course Title": "Discrete Mathematics",
+            "Category": "BSC",
+            "Credits": 4
+          },
+          {
+            "Course Code": "23IT204T",
+            "Course Title": "Database Management Systems",
+            "Category": "PCC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23IT205T",
+            "Course Title": "Java Programming",
+            "Category": "PCC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23NCC201",
+            "Course Title": "NCC Credit Course Level 2",
+            "Category": "NCC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23IT206L",
+            "Course Title": "Database Management Systems Laboratory",
+            "Category": "PCC",
+            "Credits": 2
+          },
+          {
+            "Course Code": "23IT207L",
+            "Course Title": "Java Programming Laboratory",
+            "Category": "PCC",
+            "Credits": 2
+          },
+          {
+            "Course Code": "23TP202L",
+            "Course Title": "Quantitative Aptitude & Behavioural Skills",
+            "Category": "EEC",
+            "Credits": 1
+          }
+        ],
+        "Semester V": [
+          {
+            "Course Code": "23CS301T",
+            "Course Title": "Compiler Design",
+            "Category": "PCC",
+            "Credits": 4
+          },
+          {
+            "Course Code": "23CS302I",
+            "Course Title": "Computer Networks",
+            "Category": "PCC",
+            "Credits": 4
+          },
+          {
+            "Course Code": "23CS303I",
+            "Course Title": "Full Stack Programming",
+            "Category": "PCC",
+            "Credits": 4
+          },
+          {
+            "Course Code": "23TP301L",
+            "Course Title": "Quantitative Aptitude & Communication Skills",
+            "Category": "EEC",
+            "Credits": 1
+          }
+        ],
+        "Semester VI": [
+          {
+            "Course Code": "23IT305T",
+            "Course Title": "Mobile Computing",
+            "Category": "PCC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23NCC301",
+            "Course Title": "NCC Credit Course Level 3",
+            "Category": "NCC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23CS304I",
+            "Course Title": "Cryptography and Cyber Security",
+            "Category": "PCC",
+            "Credits": 4
+          },
+          {
+            "Course Code": "23AD307I",
+            "Course Title": "Artificial Intelligence and Machine Learning",
+            "Category": "PCC",
+            "Credits": 4
+          },
+          {
+            "Course Code": "23IT306L",
+            "Course Title": "Mobile Application Development Lab",
+            "Category": "PCC",
+            "Credits": 2
+          },
+          {
+            "Course Code": "23TP302L",
+            "Course Title": "Quantitative Aptitude & Soft Skills",
+            "Category": "EEC",
+            "Credits": 1
+          },
+          {
+            "Course Code": "23CS305L",
+            "Course Title": "Mini Project",
+            "Category": "EEC",
+            "Credits": 2
+          }
+        ],
+        "Semester VII": [
+          {
+            "Course Code": "23MS401T",
+            "Course Title": "Human Values and Ethics",
+            "Category": "HSMC",
+            "Credits": 2
+          },
+          {
+            "Course Code": "Open Elective - III",
+            "Course Title": "Elective - Management",
+            "Category": "HSMC",
+            "Credits": 3
+          },
+          {
+            "Course Code": "23CS401L",
+            "Course Title": "Internship",
+            "Category": "EEC",
+            "Credits": 1
+          }
+        ],
+        "Semester VIII": [
+          {
+            "Course Code": "23CS402L",
+            "Course Title": "Project Work",
+            "Category": "EEC",
+            "Credits": 10
+          }
+        ]
+      }
+      
+  
+      
+}
