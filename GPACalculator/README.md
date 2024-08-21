@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # INSTRUCTIONS
   
-   -Install Nodejs[Nodejs](https://nodejs.org/en) 
+   -Install [Nodejs](https://nodejs.org/en) 
   
    -Download zipfile
   
