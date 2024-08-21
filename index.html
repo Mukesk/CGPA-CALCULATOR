@@ -3,10 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Semester Selector</title>
+    <title>CGPA Calculator</title>
+    <style>
+        table { width: 100%; border-collapse: collapse; }
+        table, th, td { border: 1px solid black; }
+        th, td { padding: 8px; text-align: left; }
+    </style>
 </head>
 <body>
-    <select id="semester-select">
+    <h1>CGPA Calculator</h1>
+
+    <label for="semester">Select Semester:</label>
+    <select id="semester">
         <option value="Semester I">Semester I</option>
         <option value="Semester II">Semester II</option>
         <option value="Semester III">Semester III</option>
@@ -17,6 +25,12 @@
         <option value="Semester VIII">Semester VIII</option>
     </select>
 
-    <script src="app.js"></script>
+    <div id="course-table"></div>
+
+    <button onclick="submitSemester()">Submit Semester</button>
+    <button onclick="showSemesterCGPA()">Submit This Semester CGPA</button>
+    <button onclick="showGrandCGPA()">Submit Grand CGPA</button>
+
+    <script src="script.js"></script>
 </body>
 </html>

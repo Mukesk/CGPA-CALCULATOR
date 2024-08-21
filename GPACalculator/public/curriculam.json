@@ -32,8 +32,26 @@
     },
     {
       "Course Code": "23GE101T",
-      "Course Title": "த௘ழர்மர௖ / Heritage of Tamils",
+      "Course Title": " Heritage of Tamils",
       "Category": "HSMC",
+      "Credits": 1
+    },
+    {
+      "Course Code": "23BS102L",
+      "Course Title": "Physics and Chemistry Laboratory",
+      "Category": "BSC",
+      "Credits": 2
+    },
+    {
+      "Course Code": "23CS102L",
+      "Course Title": "Problem Solving and Python Programming Laboratory",
+      "Category": "ESC",
+      "Credits": 2
+    },
+    {
+      "Course Code": "23EN102L",
+      "Course Title": "Communicative English Laboratory",
+      "Category": "EEC",
       "Credits": 1
     }
   ],
@@ -70,7 +88,7 @@
     },
     {
       "Course Code": "23GE102T",
-      "Course Title": "த௘ழ௠ம் ெதா௯ல்௎ட்ப௚ம் / Tamils and Technology",
+      "Course Title": " Tamils and Technology",
       "Category": "HSMC",
       "Credits": 1
     },
@@ -78,6 +96,24 @@
       "Course Code": "23CH102T",
       "Course Title": "Environmental Sciences and Sustainability",
       "Category": "BSC",
+      "Credits": 2
+    },
+    {
+      "Course Code": "23EN104L",
+      "Course Title": "Technical English Laboratory",
+      "Category": "EEC",
+      "Credits": 1
+    },
+    {
+      "Course Code": "23CS104L",
+      "Course Title": "Programming in C Laboratory",
+      "Category": "PCC",
+      "Credits": 2
+    },
+    {
+      "Course Code": "23ME102L",
+      "Course Title": "Engineering Practices Laboratory",
+      "Category": "ESC",
       "Credits": 2
     }
   ],
@@ -111,6 +147,30 @@
       "Course Title": "Operating Systems",
       "Category": "PCC",
       "Credits": 4
+    },
+    {
+      "Course Code": "23CS204L",
+      "Course Title": "Data Structures Laboratory",
+      "Category": "PCC",
+      "Credits": 2
+    },
+    {
+      "Course Code": "23IT202L",
+      "Course Title": "Object Oriented Programming Laboratory",
+      "Category": "PCC",
+      "Credits": 2
+    },
+    {
+      "Course Code": "23AD209L",
+      "Course Title": "Data Science Laboratory",
+      "Category": "PCC",
+      "Credits": 2
+    },
+    {
+      "Course Code": "23TP201L",
+      "Course Title": "Quantitative Aptitude & Verbal Reasoning",
+      "Category": "EEC",
+      "Credits": 1
     }
   ],
   "Semester IV": [
@@ -247,9 +307,27 @@
       "Credits": 2
     },
     {
-      "Course Code": "Open Elective - III",
+      "Course Code": "23MS402T",
       "Course Title": "Elective - Management",
       "Category": "HSMC",
+      "Credits": 3
+    },
+    {
+      "Course Code": "23OEC301",
+      "Course Title": "Open Elective - III",
+      "Category": "OEC",
+      "Credits": 3
+    },
+    {
+      "Course Code": "23PEC501",
+      "Course Title": "Professional Elective - V",
+      "Category": "PEC",
+      "Credits": 3
+    },
+    {
+      "Course Code": "23PEC502",
+      "Course Title": "Professional Elective - VI",
+      "Category": "PEC",
       "Credits": 3
     },
     {
